@@ -38,6 +38,8 @@ $grays: (
 
 // scss-docs-start color-variables
 $tiffaine:  #355B3E !default; 
+$tiffaine2: #F5DBC4 !default;
+$tiffaine3: #029664 !default;
 $blue:    #0d6efd !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
@@ -53,6 +55,8 @@ $cyan:    #0dcaf0 !default;
 // scss-docs-start colors-map
 $colors: (
   "tiffaine": $tiffaine,
+  "tiffaine2": $tiffaine2,
+  "tiffaine3": $tiffaine3,
   "blue":       $blue,
   "indigo":     $indigo,
   "purple":     $purple,
@@ -302,6 +306,8 @@ $cyans: (
 
 // scss-docs-start theme-color-variables
 $tiffaine: $tiffaine !default;
+$tiffaine2: $tiffaine2 !default;
+$tiffaine3: $tiffaine3 !default;
 $primary:       $blue !default;
 $secondary:     $gray-600 !default;
 $success:       $green !default;
@@ -315,6 +321,8 @@ $dark:          $gray-900 !default;
 // scss-docs-start theme-colors-map
 $theme-colors: (
   "tiffaine": $tiffaine,
+  "tiffaine2": $tiffaine2,
+  "tiffaine3": $tiffaine3,
   "primary":    $primary,
   "secondary":  $secondary,
   "success":    $success,
